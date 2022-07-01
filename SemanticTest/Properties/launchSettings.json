@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SemanticTest": {
+      "commandName": "Project",
+      "commandLineArgs": "SemanticEvolutionSampleData.csv config.json"
+    }
+  }
+}
